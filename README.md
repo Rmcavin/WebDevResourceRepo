@@ -3,6 +3,7 @@ This is a collection of resources I find helpful and want to be able to referenc
 
 ## Firebase Tutorials
 [Firebase Auth for Web](https://www.youtube.com/watch?v=-OKrloDzGpU&index=6&list=PLl-K7zZEsYLnq6DvMtUJVDLe4w5wcTwUl)
+
 [Many to Many example in Firebase](https://stackoverflow.com/questions/41527058/many-to-many-relationship-in-firebase)
 
 ## Front End Architecture
