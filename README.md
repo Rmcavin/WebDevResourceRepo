@@ -14,5 +14,6 @@ This is a collection of resources I find helpful and want to be able to referenc
 
 ## SVG
 [CSS Clip Path for cool SVG Effects](https://css-tricks.com/using-css-clip-path-create-interactive-effects/)
+
 [Part 2 CSS Clip Path for cool SVG Effects](https://css-tricks.com/using-css-clip-path-to-create-interactive-effects-part-ii/)
 
