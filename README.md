@@ -1,6 +1,9 @@
 # WebDevResourceRepo
 This is a collection of resources I find helpful and want to be able to reference. Feel free to use it if it helps you!
 
+## NPM 
+[NPM Scripts Tips](https://corgibytes.com/blog/2017/04/18/npm-tips/)
+
 ## Firebase Tutorials
 [Firebase Auth for Web](https://www.youtube.com/watch?v=-OKrloDzGpU&index=6&list=PLl-K7zZEsYLnq6DvMtUJVDLe4w5wcTwUl)
 
